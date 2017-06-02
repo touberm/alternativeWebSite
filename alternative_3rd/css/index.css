@@ -10,6 +10,7 @@ a{text-decoration:none;}
 #page #footer .generalMsi ul li.last{border-right:0;}
 #page #footer .generalMsi ul li:hover a{color:#0085d9;}
 #page #footer .generalMsi ul li a{color:#fff;}
+#page #footer .generalMsi ul li a.current{color:#0085d9;}
 #page #footer .generalMsi p{margin:0;padding-left: 60px;padding-bottom: 10px;}
 #page #footer .generalMsi p span{margin:0;display: inline;padding-right: 10px;}
 
@@ -54,3 +55,17 @@ a{text-decoration:none;}
 #page #body .apply .wrap .fr.main form dl dd.applyPlatform a.current{background: #f32d25 none repeat scroll 0 0; border-color: #f32d25; color: #fff;}
 #page #body .apply .wrap .fr.main form dl dd strong.fwb{    color: #f32d25; font-size: 16px; }
 #page #body .apply .wrap .fr.main form dl dd input.btn{background-color: #f32d25; border: 1px solid #f32d25; border-radius: 3px; box-shadow: 0 1px 0 #ccc; color: #fff; display: block; font-size: 16px; height: 40px; line-height: 40px; text-align: center; width: 143px; cursor: pointer; font: 14px/125% Microsoft yahei;}
+
+/* reset条款 #rules */
+#page #body .rules{color:#fff;margin-bottom: 100px;}
+#page #body .rules .title{font-family: 'Mircosoft YaHei';color:#fff;border-bottom: 1px dashed #fff;padding-bottom: 10px;letter-spacing: 4px;}
+#page #body .rules span{color:orange;}
+
+#page #body .rules p{text-indent: 2em;font-size:16px;line-height: 30px;}
+#page #body .rules h4{color:#0085d9;}
+/* trade disput 交易纠纷 */
+#page #body .td p{text-indent: 2em;font-size:16px;line-height: 30px;}
+#page #body .td h4{color:#0085d9;}
+/* parental controls 家长监护 */
+#page #body .pc a{font-size:24px;color:#3366ff;padding-left:5px;}
+
