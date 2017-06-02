@@ -1,0 +1,24 @@
+.fl{float: left;}
+.fr{float:right;}
+.clear{zoom:1;}
+.clear:after{content:'';display: block;clear:both;}
+a{text-decoration:none;}
+#page #footer .generalMsi{background: #333;}
+#page #footer .generalMsi ul{list-style: none;text-align: center;padding-left: 45px;margin:0;}
+#page #footer .generalMsi ul li{font-size: 12px;color:#fff;width:60px;padding: 0 10px; border-right: 1px solid #fff; margin: 10px 0;}
+#page #footer .generalMsi ul li.last{border-right:0;}
+#page #footer .generalMsi ul li:hover a{color:#0085d9;}
+#page #footer .generalMsi ul li a{color:#fff;}
+#page #footer .generalMsi p{margin:0;padding-left: 60px;padding-bottom: 10px;}
+#page #footer .generalMsi p span{margin:0;display: inline;padding-right: 10px;}
+
+
+/*gameStore*/
+#page #body .gs{width:100%;}
+#page #body .gs h1{font-family: 'Microsoft YaHei';color:#fff;text-align: center;}
+#page #body .gs table{border-collapse: collapse;border:2px solid #fff;margin:0 auto;width:800px;margin-bottom: 60px;}
+#page #body .gs table td{border:1px solid #fff;color:#fff;text-align: color: #000;font-size:18px;}
+#page #body .gs table td.name{width:200px;}
+#page #body .gs table td.usage{width:400px;}
+#page #body .gs table td.price{width:200px;}
+#page #body .gs table td p{text-align:center;}
